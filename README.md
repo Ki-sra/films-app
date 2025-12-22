@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="img/pro.png" >
+  <img src="img/pro.jpeg" >
 </p>
 
 A full-stack web application for browsing, managing, and interacting with movie data.
