@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="assets/images/home.png" width="300">
+  <img src="img/pro.png" >
 </p>
 
 A full-stack web application for browsing, managing, and interacting with movie data.
