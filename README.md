@@ -1,5 +1,10 @@
 # 🎬 Films App
 
+
+<p align="center">
+  <img src="assets/images/home.png" width="300">
+</p>
+
 A full-stack web application for browsing, managing, and interacting with movie data.
 This project is divided into a backend API and a frontend user interface.
 
