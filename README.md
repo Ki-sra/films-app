@@ -85,7 +85,7 @@ _Add screenshots here if needed_
 
 ## 🧑‍💻 Author
 
-**Hamza Kisra**
+**Hamza Kousra**
 **Ayoub Aguezar**
 ISTA Ouarzazate – Digital Development  
 
